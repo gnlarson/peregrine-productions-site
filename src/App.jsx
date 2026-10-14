@@ -6,12 +6,12 @@ const offerings = [
   {
     number: '01',
     title: 'Applications',
-    body: 'Software with interfaces that respond quickly and explain themselves. We take products from first prototype through to release.',
+    body: 'Software that makes life easier. We take products from first prototype through to release.',
   },
   {
     number: '02',
     title: 'Games',
-    body: 'Original games built on tight mechanics, clear feedback, and a good reason to play one more round.',
+    body: 'Original games built on novel mechanics, clear feedback, and a good reason to play one more round.',
   },
 ]
 
@@ -37,7 +37,7 @@ export default function App() {
               <span className="hero-title-accent">Productions</span>
             </h1>
             <p className="hero-lede">
-              We make software applications and games that people choose to come back to.
+              We build software that solves real problems and games that bring people together.
             </p>
           </div>
           <FalconMark className="hero-mark" />
@@ -47,9 +47,8 @@ export default function App() {
           <div className="container studio-grid">
             <h2 id="studio-heading" className="section-label">The studio</h2>
             <p className="studio-copy">
-              Peregrine Productions is a small studio focused on engaging software and games.
-              We care about how a thing feels in the hand: how fast it answers, how little it
-              asks of you, and whether you want to open it again tomorrow.
+              Peregrine Productions is a small studio focused on creating software and games that speak to people's passions.
+              We're a team of creatives and engineers who care not just about function, but how our work makes people feel. We believe that software and games should be beautiful, intuitive, and fun to use.
             </p>
           </div>
         </section>

@@ -176,7 +176,7 @@ ul {
 }
 
 .hero-lede {
-  max-width: 30ch;
+  max-width: 35ch;
   margin-top: 32px;
   font-size: clamp(1.125rem, 1.8vw, 1.375rem);
   line-height: 1.45;
