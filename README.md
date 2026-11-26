@@ -43,3 +43,4 @@ GitHub also recommends [verifying the domain](https://docs.github.com/en/pages/c
 - `src/App.jsx`: page content and sections
 - `src/index.css`: styles and the brand palette (CSS variables at the top)
 - `src/components/FalconMark.jsx`: the falcon logo, also used in `public/favicon.svg`
+- `src/components/FlowsmithMark.jsx` and `src/assets/flowsmith-studio.jpg`: copied from the [Flowsmith site](https://flowsmith.studio) for the featured product section. Update them here if Flowsmith's branding changes.
